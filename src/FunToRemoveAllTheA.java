@@ -22,7 +22,7 @@ public class FunToRemoveAllTheA {
         StringBuilder sb1 = new StringBuilder();
         //base condition
         if(str.length() == 0){
-            return ;
+            return;
         }
     }
 }
