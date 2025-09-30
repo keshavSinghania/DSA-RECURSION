@@ -27,5 +27,6 @@ public class SubsequenceWithSum2 {
         l.removeLast();
         sum -= arr[idx];
         subSeq(arr , l , idx+1, s , sum);
-    }
+    };
+
 }
